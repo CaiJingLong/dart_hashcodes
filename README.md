@@ -2,8 +2,8 @@
 
 `dart:ui` contains a hashValues method, but dart sdk cannot use it, I copy this out so that the pure dart package can be used.
 
-Copy from https://github.com/flutter/engine/blob/aec855d3963c9cf0e7082b4d05288c75b4bc36e1/lib/ui/hash_codes.dart.
+Copy from [dart:ui](https://github.com/flutter/engine/blob/aec855d3963c9cf0e7082b4d05288c75b4bc36e1/lib/ui/hash_codes.dart).
 
 ## LICENSE
 
-BSD style
+BSD-style
